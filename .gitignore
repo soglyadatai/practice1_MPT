@@ -1,7 +1,16 @@
-build_*/
-lib/
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.db
+*.opendb
 
-*.exe
-*.ii
-*.s
-*.o
+# Build
+x64/
+Debug/
+Release/
+
+# Binaries
+*.pdb
+*.idb
+*.log
