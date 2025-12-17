@@ -4,6 +4,8 @@
 *.user
 *.db
 *.opendb
+*.vcxproj
+*.sln
 
 # Build
 x64/
