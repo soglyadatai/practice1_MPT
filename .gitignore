@@ -3,7 +3,7 @@ cmake-build-*/
 CMakeFiles/
 CMakeCache.txt
 cmake_install.cmake
-
+desktop.ini
 *.vcxproj
 *.vcxproj.filters
 *.sln
