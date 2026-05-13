@@ -4,6 +4,7 @@ CMakeFiles/
 CMakeCache.txt
 cmake_install.cmake
 desktop.ini
+**/desktop.ini
 *.vcxproj
 *.vcxproj.filters
 *.sln
